@@ -1,0 +1,7 @@
+{
+	"repositoryName": "example-saas",
+	"adapter": "@slicemachine/adapter-sveltekit",
+	"libraries": ["./src/lib/slices"],
+	"localSliceSimulatorURL": "http://localhost:5173/slice-simulator",
+	"apiEndpoint": "https://example-saas.cdn.prismic.io/api/v2"
+}
